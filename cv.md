@@ -32,3 +32,4 @@ NONE
 ## Language:
 * Russian - Native
 * English - Intermediate/Upper-intermediate (according to the online test at EFset [www.efset.org](www.efset.org))
+![Alt-Test](/fvBXqnoR.jpg "Test result")
