@@ -4,32 +4,42 @@
 
 ## Contact information:
 
-* Phone(fake): +375 44 843-9334
-* Discord: Hegohol (@hegohol4)
-* GitHub: [hegohol4](https://github.com/hegohol4)
+* __Phone__(fake): +375 44 843-9334
+* __Discord__: Hegohol (@hegohol4)
+* __GitHub__: [hegohol4](https://github.com/hegohol4)
+
+*************
 
 ## About myself:
 
-Pesona (series) enjoyer
+_Pesona (series) enjoyer_
+
+****************
 
 ## Skills:
 
-* HTML
-* Adobe Photoshop (basic)
-* Adobe Illustrator (basic)
-* Adobe Premiere Pro (basic)
-* Adobe After Effects (basic)
-* Procrastination
+* __HTML__
+* __Adobe Photoshop__ (basic)
+* __Adobe Illustrator__ (basic)
+* __Adobe Premiere Pro__ (basic)
+* __Adobe After Effects__ (basic)
+* _Procrastination_
+
+**********************
 
 ## Code example (python):
 ```
 print("Hello, World!")
 ```
 
+***************************
+
 ## Courses:
-NONE
+__NONE__
+
+**********************
 
 ## Language:
-* Russian - Native
-* English - Intermediate/Upper-intermediate (according to the online test at EFset [www.efset.org](www.efset.org))
+* __Russian__ - Native
+* __English__ - Intermediate/Upper-intermediate (according to the online test at EFset [www.efset.org](www.efset.org))
 ![Alt-Test](/fvBXqnoR.jpg "Test result")
